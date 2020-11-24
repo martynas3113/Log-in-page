@@ -1,0 +1,41 @@
+.btn {
+    width: 100%;
+    background-color: #FD3449;
+    display: inline-block;
+    padding: 10px 0;
+    border-radius: 5px;
+    text-align: center ;
+    box-shadow: 0 4px 5px #777;
+    opacity: 0.9;
+}
+
+    .btn:hover {
+        opacity: 1;
+        box-shadow: 0 4px 7px #777;
+        cursor: pointer;
+       
+    }
+
+    .right > .google:hover {
+        transition: all 0.5s , box-shadow 0s;
+        background-color: #FD3449;
+        box-shadow: 0 4px 7px #777;
+        color: white;
+        cursor: pointer;
+    }
+
+    .right > .log > a:hover{
+        
+        color: #0145A7;
+    }
+
+    footer > p > a:hover {
+        color: #0145A7;
+        
+    }
+
+
+
+    
+        
+        
